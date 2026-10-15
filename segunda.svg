@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250">
+<rect width="400" height="250" fill="#1f2a44"/>
+<circle cx="200" cy="100" r="55" fill="#ffd84d"/>
+<rect x="178" y="150" width="44" height="40" fill="#999999"/>
+<rect x="182" y="190" width="36" height="12" fill="#666666"/>
+<text x="200" y="235" font-size="14" text-anchor="middle" fill="#ffffff">Electricidad</text>
+</svg>
